@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... research work at the junction of cybersecurity and AI
 - 🤔 I’m looking for help with building Web3.0 applications
 - 💬 Ask me about fixing CVEs like BlastRADIUS ...
-- 📫 How to reach me: ... email me @ <firstname><lastname> AT gmail DOT com
+- 📫 How to reach me: ... email me @ firstname DOT lastname AT gmail DOT com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I can cook a very edible Chicken biryani!  
